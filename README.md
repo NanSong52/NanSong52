@@ -16,4 +16,6 @@ Tools:    Tableau / Power BI / MS Excel / LaTex / Shell / Git / Linux / MySQL / 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/NanSong52)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nan-song-44a791249//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nancymangoo//)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanSong52)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NanSong52&show_icons=true)  
+### 📊 Stats
+
+![Nan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanSong52&show_icons=true&theme=gruvbox)

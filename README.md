@@ -3,7 +3,7 @@
 
 My curiosity drives me to explore new ideas, and I find joy in thinking creatively, writing codes, and continually learning and growing in my fields of interest.
 
-Skills:   Python(4+ years experience) / SQL / PostgreSQL/ SAS/ C++ / R / JavaScript/ VUE JS / REACT / HTML / CSS
+Skills:   Python(4+ years experience) / SQL / PostgreSQL / SAS/ C++ / R / JavaScript / VUE JS / REACT / HTML / CSS
 
 Tools:    Tableau / Power BI / MS Excel / LaTex / Shell / Git / Linux / MySQL / AWS
 

@@ -10,7 +10,8 @@ Tools:    Tableau / Power BI / MS Excel / LaTex / Shell / Git / Linux / MySQL / 
 - 🔭 I’m currently working on developing efficient quantum chemistry algorithms. I am also working remotely as a data analyst intern at a consulting group. 
 - 🌱 I’m currently learning quantum machine learning and quantum computing.  
 - 💬 Ask me about quantum computing, quantum mechanics, and quantum chemistry.   
-- 📫 How to reach me: nansong.work@gmail.com 
+- 📫 How to reach me: nansong.work@gmail.com
+- 📫 My personal website: nansongs.com
 - ⚡ Fun fact: I'm a cat lover, an avid snowboarder, and enjoy climbing in my free time. 
 
 

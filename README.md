@@ -11,7 +11,7 @@ Tools:    Tableau / Power BI / MS Excel / LaTex / Shell / Git / Linux / MySQL / 
 - 🌱 I’m currently learning quantum machine learning and quantum computing.  
 - 💬 Ask me about quantum computing, quantum mechanics, and quantum chemistry.   
 - 📫 How to reach me: nansong.work@gmail.com
-- 👨‍💻 All of my projects are available at [nansongs.com](nansongs.com)
+- 👨‍💻 All of my projects are available at [nansongs.com](https://nansongs.com/)
 - ⚡ Fun fact: I'm a cat lover, an avid snowboarder, and enjoy climbing in my free time. 
 
 

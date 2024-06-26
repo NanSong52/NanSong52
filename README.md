@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Nan!
-#### Quantum Algorithm Reasrcher | Data Analyst | Machine Learning Kaggler
+#### Software | Quantum Algorithm Researcher 
 
 My curiosity drives me to explore new ideas, and I find joy in thinking creatively, writing codes, and continually learning and growing in my fields of interest.
 
@@ -8,8 +8,7 @@ Skills:   Python(4+ years experience) / SQL / PostgreSQL / SAS/ C++ / R / JavaSc
 Tools:    Tableau / Power BI / MS Excel / LaTex / Shell / Git / Linux / MySQL / AWS
 
 - 🔭 I’m currently working on developing novel quantum chemistry algorithms to improve the efficiency of electronic structure calculations.
-- 🌱 I’m currently learning quantum machine learning and quantum computing.  
-- 💬 Ask me about quantum computing, quantum mechanics, and quantum chemistry.   
+- 💬 Ask me about quantum computing and quantum chemistry.   
 - 📫 How to reach me: nansong.work@gmail.com
 - 👨‍💻 All of my projects are available at [nansongs.com](https://nansongs.com/)
 - ⚡ Fun fact: I'm a cat lover, an avid snowboarder, and enjoy climbing in my free time. 

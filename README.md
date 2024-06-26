@@ -7,7 +7,7 @@ Skills:   Python(4+ years experience) / SQL / PostgreSQL / SAS/ C++ / R / JavaSc
 
 Tools:    Tableau / Power BI / MS Excel / LaTex / Shell / Git / Linux / MySQL / AWS
 
-- 🔭 I’m currently working on developing novel quantum chemistry algorithms to improve the efficiency of electronic structure calculations. I am also working remotely as a data analyst intern at a consulting group. 
+- 🔭 I’m currently working on developing novel quantum chemistry algorithms to improve the efficiency of electronic structure calculations.
 - 🌱 I’m currently learning quantum machine learning and quantum computing.  
 - 💬 Ask me about quantum computing, quantum mechanics, and quantum chemistry.   
 - 📫 How to reach me: nansong.work@gmail.com
